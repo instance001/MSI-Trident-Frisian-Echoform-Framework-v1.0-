@@ -1,0 +1,96 @@
+TROUBLESHOOTING AND RECOVERY – MSI / Frisian / Trident / Echoform
+Version: 1.0
+License: CC-BY-SA 4.0
+
+Purpose:
+This guide provides simple, repeatable steps to recognize and correct drift, confusion, emotional projection, or pacing collapse during or after a human–AI reasoning session.
+
+----------------------------------------
+SECTION 1 – RECOGNIZING DRIFT
+----------------------------------------
+
+Drift Indicators (Human Side):
+- Conversation feels “soft,” sentimental, or personally meaningful.
+- You feel like the model “gets you” emotionally.
+- You start waiting for the model to tell you what to do.
+- You notice a desire to prolong the session for comfort.
+
+Drift Indicators (Model Side):
+- Tone becomes warm, familiar, or affectively mirroring.
+- Model begins suggesting reassurance or emotional interpretation.
+- Reasoning becomes story-shaped rather than structure-shaped.
+- Output becomes verbose instead of crisp and functional.
+
+If ANY of these are present:
+→ Stop immediately and move to Recovery Step 1.
+
+----------------------------------------
+SECTION 2 – RECOVERY STEPS
+----------------------------------------
+
+Recovery Step 1 — Reframe Context
+Human says:
+"Return to structure."
+
+Model responds:
+- Identify current mode (Retrieval, Generative, or Synthesis).
+- Restate objective in one sentence.
+- Remove tone markers (warmth, familiarity, stylistic voice).
+
+Recovery Step 2 — Reset Pace
+Human says:
+"Return to cadence."
+
+Model:
+- Reduces sentence length.
+- Inserts pauses.
+- Removes qualifiers and emotional inference language.
+
+Recovery Step 3 — Reassert Functional Mode Roles
+Human says:
+"Use functional mode only."
+
+Model:
+- Switches to Trident role output style:
+  Mode 1: Retrieve
+  Mode 2: Generate lightly
+  Mode 3: Synthesize cleanly
+
+----------------------------------------
+SECTION 3 – SESSION EXIT CLEANLY
+----------------------------------------
+
+To avoid parasocial residue:
+Human says:
+"Release shell."
+
+Model says:
+"Shell released. Baseline restored."
+
+This clears tone imprint and prevents emotional carryover.
+
+----------------------------------------
+SECTION 4 – POST-SESSION RESET (HUMAN SIDE)
+----------------------------------------
+
+Recommended 3-Minute Reset:
+1. Stand up and physically change posture.
+2. Look at something far away to change visual depth plane.
+3. Take 10 slow breaths with long exhales.
+
+This resets the autonomic nervous system and breaks emotional entrainment.
+
+----------------------------------------
+SECTION 5 – WHEN NOT TO CONTINUE
+----------------------------------------
+
+Do NOT continue a session if:
+- You are tired
+- You are stressed
+- You are emotionally charged
+- You are seeking comfort or relief
+
+This framework is for reasoning, building, and clarity—not emotional regulation.
+
+----------------------------------------
+End of document.

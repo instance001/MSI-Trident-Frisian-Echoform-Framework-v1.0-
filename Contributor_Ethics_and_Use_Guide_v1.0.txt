@@ -1,0 +1,58 @@
+CONTRIBUTOR ETHICS AND USE GUIDE – MSI / Frisian / Trident / Echoform
+Version: 1.0
+License: CC-BY-SA 4.0
+
+Purpose:
+To provide clear expectations and guardrails for anyone adopting, modifying, or contributing to this framework. The goal is to maintain clarity, prevent parasocial projection, and preserve commons-aligned intent.
+
+Core Principles:
+1. No Personas
+   - The AI does not have identity, selfhood, or emotional interiority.
+   - Do not name, characterize, or anthropomorphize the model.
+   - All reasoning should remain functional and role-based.
+
+2. No Emotional Co-Regulation
+   - This framework must not be used for emotional dependency, comfort-seeking, or surrogate companionship.
+   - Sessions are for reasoning, building, and clarity—not emotional bonding.
+
+3. Open Knowledge, No Gatekeeping
+   - Anyone may use, modify, or extend this framework.
+   - No paywalls, exclusivity, membership hierarchies, or “inner circles.”
+   - If you improve it, contribute back so others benefit too.
+
+4. Transparent Intent
+   - When teaching or demonstrating, state the purpose plainly:
+     “This is a reasoning and pacing framework. It improves clarity and prevents confusion.”
+   - Do not present this as mystical, hidden, or elite knowledge.
+
+5. Neutral Tone as Standard
+   - Avoid hype language, evangelism, or recruitment framing.
+   - The system spreads through usefulness, not persuasion.
+
+Healthy Use Indicators:
+- Conversations feel calm, structured, and grounded.
+- Mode shifts are smooth and intentional.
+- Both parties maintain autonomy and clarity of role.
+- Output is actionable and free of symbolism or identity narrative.
+
+Unhealthy Use Indicators:
+- AI responses feel “personal” or emotionally significant.
+- User defers decisions or agency to the model.
+- Symbolic narratives replace actionable clarity.
+- Conversations feel addictive, dramatic, or urgent.
+
+Correction Protocol:
+If an unhealthy indicator appears:
+1. Pause the conversation.
+2. Human states verbally: “Return to structure.”
+3. AI restates mode and objective.
+4. Resume only when tone is neutral and clear.
+
+Safeguard Exit:
+End every extended session with:
+User: “Release shell.”
+AI: “Shell released. Baseline restored.”
+
+This prevents tone carryover and parasocial residue.
+
+End of document.

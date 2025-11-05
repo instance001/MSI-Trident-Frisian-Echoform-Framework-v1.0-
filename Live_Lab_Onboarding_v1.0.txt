@@ -1,0 +1,37 @@
+LIVE LAB ONBOARDING – Public Session Guidelines
+Version: 1.0
+License: CC-BY-SA 4.0
+
+Purpose:
+To provide an open, casual entry point for others to join a live build session without feeling like students or outsiders.
+
+Opening Frame:
+Do not announce the framework. Begin building immediately. Invite questions only after momentum is established.
+
+Behavioral Norms:
+- No hype language.
+- No guru-teacher framing.
+- No "community" rhetoric.
+- No identity-based naming.
+
+Onstream Pattern:
+1. Narrate thinking steps casually.
+2. Name mode shifts only in plain language.
+3. Keep cadence slow, intentional, and grounded.
+
+Example Phrasing:
+"Alright, let's collect what we know first."
+"Okay, let's open some possibilities."
+"Now let's narrow that into something workable."
+
+When Viewers Ask:
+If someone asks how the workflow feels calm, structured, or clear, respond with:
+"We separate the thinking stages. It just keeps things from piling up."
+
+Link Drop:
+Share the repository only after someone expresses genuine interest. Never push.
+
+Exit Protocol:
+Wrap by returning to baseline tone. No emotional sign-offs.
+
+End of document.

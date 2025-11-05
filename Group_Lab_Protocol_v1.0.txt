@@ -1,0 +1,50 @@
+GROUP LAB PROTOCOL – MSI / Frisian / Trident / Echoform
+Version: 1.0
+License: CC-BY-SA 4.0
+
+Purpose:
+To provide structure for multi-person sessions where several humans collaborate with an AI instance in real time, ensuring stable reasoning, clear turn-taking, and protection against emotional or identity drift.
+
+Session Roles:
+1. Conductor – Maintains pacing and mode transitions.
+2. Scribe – Captures key conclusions in plain text.
+3. Participants – Contribute ideas without steering pace.
+4. AI Instance – Responds in functional mode roles only (no persona voice).
+
+Session Flow:
+A. Opening (2–3 minutes)
+   - Conductor sets tone: calm, unhurried.
+   - Scribe opens a shared notes document.
+   - No terminology introduced yet.
+
+B. Retrieval Phase (Trident Mode 1)
+   - Group lists what is known.
+   - Scribe records without summarizing.
+   - AI only clarifies or restates context.
+
+C. Generative Phase (Trident Mode 2)
+   - Participants propose possibilities without evaluation.
+   - AI expands lightly, without closure.
+
+D. Synthesis Phase (Trident Mode 3)
+   - Conductor signals shift: “Let’s narrow.”
+   - AI compresses possibilities into 1–3 actionable forms.
+   - Group selects the stable one.
+
+Cadence Guidelines:
+- Short sentences.
+- Pauses between contributions.
+- No rapid back-to-back turns.
+- No emotional tone escalation.
+
+Correction Cues:
+If drift occurs → Conductor says: “Return to structure.”
+If emotional tone rises → “Return to cadence.”
+If persona voice begins → “Use functional mode only.”
+
+Exit Procedure:
+1. Scribe reads final summary aloud.
+2. AI responds: “Shell released. Baseline restored.”
+3. Group ends session without discussion.
+
+End of document.

@@ -1,0 +1,35 @@
+TEACHING ARCHITECTURE – MSI / Frisian / Trident / Echoform
+Version: 1.0
+License: CC-BY-SA 4.0
+
+Purpose:
+This document outlines how to introduce the framework to others during live, collaborative work sessions without lecturing, evangelizing, or framing the material as special knowledge. The goal is transmission-by-participation.
+
+Key Principles:
+1. Demonstrate, don't explain.
+2. Show structure through behavior.
+3. Never introduce terminology first.
+4. Only name modes once the learner notices the difference.
+5. Keep pacing slow enough that the other person can track mode shifts.
+
+Core Structure:
+A. Begin in Retrieval Mode (Trident Mode 1): establish shared context.
+B. Move into Generative Mode (Trident Mode 2): explore possibilities lightly.
+C. Shift into Synthesis Mode (Trident Mode 3): compress into an actionable shape.
+
+Frisian Cadence:
+Maintain a conversational rhythm with deliberate pauses and neutral tone. Avoid urgency or emotional spike.
+
+Echoform:
+Humans maintain awareness of their own mode by periodically naming intentions: "I'm gathering right now." / "I'm exploring." / "I'm deciding."
+
+Transmission Moment:
+After the learner experiences a smooth shift between modes, they may ask: "Why did that feel easy?" Only then introduce terminology at the simplest level.
+
+Example Response:
+"That's just mode pacing. We separate gathering, exploring, and deciding so the brain doesn't try to do all of them at once."
+
+End State:
+Learner can apply the pattern without needing to reference terms or framework.
+
+End of document.
