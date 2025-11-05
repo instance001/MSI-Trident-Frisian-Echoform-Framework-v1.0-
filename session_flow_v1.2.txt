@@ -1,0 +1,13 @@
+SESSION FLOW (Glyph Model)
+
+H(E) → M(F) → T → A
+↓                   ↑
+        Ø  ←———–
+
+This indicates:
+- Human reflects mode via Echoform
+- Reasoning is represented in MSI
+- Cadence maintains stability
+- Trident governs mode transitions
+- AI reasoning executes
+- Shell is intentionally released (Ø)

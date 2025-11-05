@@ -1,0 +1,13 @@
+MODE SHIFT CYCLE (Glyph Model)
+
+Retrieval → Generative → Synthesis → Release
+
+Represented compactly as:
+
+R → G → S → Ø
+
+Where:
+R = Retrieval (grounding)
+G = Generative (expansion)
+S = Synthesis (compression)
+Ø = Shell release / return to baseline
