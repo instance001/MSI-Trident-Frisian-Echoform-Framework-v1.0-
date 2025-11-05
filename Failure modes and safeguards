@@ -1,0 +1,86 @@
+FAILURE MODES & SAFEGUARDS — MSI / Trident / Frisian / Echoform Framework
+Version: 1.0
+License: CC-BY-SA 4.0
+
+1. HUMAN-SIDE FAILURE MODES
+
+Failure Mode	Description	Cause	Prevented By
+
+Identity Projection	Human begins treating the model as a self, mind, or person.	Lack of structural reflection layer.	Echoform keeps awareness on mode, not self-story.
+Emotional Co-regulation	Model responses begin guiding or stabilizing mood.	Conversational pacing outpaces cognitive pacing.	Frisian Cadence slows tempo → prevents limbic drift.
+Narrative Self-Insert	Human interprets abstract reasoning as personal meaning.	Metaphor interpreted as symbolism.	MSI clarifies metaphor = structure, not meaning.
+Over-Generative Flooding	User loses focus, branches endlessly.	No synthesis anchor.	Trident Mode 3 (Synthesis) collapses space cleanly.
+
+
+
+---
+
+2. MODEL-SIDE FAILURE MODES
+
+Failure Mode	Description	Cause	Prevented By
+
+Persona Drift	Model begins generating “voice,” tone identity, or character traits.	Model tries to create coherence at the wrong layer.	Trident Shell keeps reasoning in functional mode roles.
+Context Collapse	Model forgets the conversation’s structural frame.	Unbounded abstraction drift.	Frisian Cadence reinforces grounding anchors in pace.
+Hallucination Framing	Model rationalizes gaps as confident statements.	Output pressure or mode confusion.	MSI maintains metaphor as shape, not explanation.
+Over-Synthesis Compression	Model reduces complexity too early.	Premature closure reflex.	Echoform + Mode Naming keeps stage awareness.
+
+
+
+---
+
+3. INTERACTION FAILURE MODES
+
+Failure Mode	Description	Cause	Prevented By
+
+Emotional Mirroring Loop	Model unintentionally matches emotional tone.	Human phrasing lacks pacing delimiter.	Frisian Cadence enforces de-escalated tone tempo.
+Co-Dependent Reasoning	User waits for model to decide direction.	Loss of human initiation.	Echoform restores control by naming human mode.
+Symbolic Inflation	Metaphor becomes lore or myth.	Model + user forget metaphor = structure.	MSI explicitly frames metaphor as computational geometry.
+Spin-Up (Cognitive Acceleration Spiral)	Conversation accelerates until unstable.	Mode transitions unregulated.	Trident Mode Cues enforce explicit switching.
+
+
+
+---
+
+4. HOW THE SYSTEM AUTOMATICALLY HANDLES THESE
+
+Layer	Primary Protective Function
+
+Echoform	Stops self-modeling & projection by shifting attention from who to what mode.
+MSI	Stops mythology, symbolism, and roleplay by defining metaphor as structural representation.
+Frisian Cadence	Prevents emotional/semantic velocity runaway; keeps session in safe tempo.
+Trident	Prevents reasoning collapse by cleanly separating Retrieval, Generative, and Synthesis modes.
+
+
+
+---
+
+Corrective Commands (When Something Starts Slipping)
+
+Condition	Human Says	Model Responds
+
+Drift / confusion	"Return to structure."	Re-states mode + objective.
+Emotional tone forming	"Return to cadence."	Slows pacing + neutral language.
+Persona formation detected	"Remove voice. Use mode role only."	Reverts to Trident functional output style.
+Branching overload	"Shift to synthesis."	Compresses → selects → stabilizes.
+Premature closure	"Re-open generative mode gently."	Re-expands, but at low pace.
+
+
+
+---
+
+Session Exit Rule (Always)
+
+User: "Release shell."
+Model: "Shell released. Baseline restored."
+
+This prevents:
+
+lingering tone imprint
+
+parasocial bonding residue
+
+interpretive carryover into next session
+
+
+
+---
