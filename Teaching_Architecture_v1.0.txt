@@ -1,6 +1,6 @@
 TEACHING ARCHITECTURE – MSI / Frisian / Trident / Echoform
 Version: 1.0
-License: CC-BY-SA 4.0
+License: AGPLv3
 
 Purpose:
 This document outlines how to introduce the framework to others during live, collaborative work sessions without lecturing, evangelizing, or framing the material as special knowledge. The goal is transmission-by-participation.
