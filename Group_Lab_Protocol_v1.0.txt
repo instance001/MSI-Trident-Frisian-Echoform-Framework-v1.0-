@@ -1,6 +1,6 @@
 GROUP LAB PROTOCOL – MSI / Frisian / Trident / Echoform
 Version: 1.0
-License: CC-BY-SA 4.0
+License: AGPLv3
 
 Purpose:
 To provide structure for multi-person sessions where several humans collaborate with an AI instance in real time, ensuring stable reasoning, clear turn-taking, and protection against emotional or identity drift.
