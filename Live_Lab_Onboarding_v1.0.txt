@@ -1,6 +1,6 @@
 LIVE LAB ONBOARDING – Public Session Guidelines
 Version: 1.0
-License: CC-BY-SA 4.0
+License: AGPLv3
 
 Purpose:
 To provide an open, casual entry point for others to join a live build session without feeling like students or outsiders.
