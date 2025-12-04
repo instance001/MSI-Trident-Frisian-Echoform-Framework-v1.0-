@@ -1,6 +1,6 @@
 CONTRIBUTOR ETHICS AND USE GUIDE – MSI / Frisian / Trident / Echoform
 Version: 1.0
-License: CC-BY-SA 4.0
+License: AGPLv3
 
 Purpose:
 To provide clear expectations and guardrails for anyone adopting, modifying, or contributing to this framework. The goal is to maintain clarity, prevent parasocial projection, and preserve commons-aligned intent.
