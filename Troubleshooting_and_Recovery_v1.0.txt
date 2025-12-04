@@ -1,6 +1,6 @@
 TROUBLESHOOTING AND RECOVERY – MSI / Frisian / Trident / Echoform
 Version: 1.0
-License: CC-BY-SA 4.0
+License: AGPLv3
 
 Purpose:
 This guide provides simple, repeatable steps to recognize and correct drift, confusion, emotional projection, or pacing collapse during or after a human–AI reasoning session.
