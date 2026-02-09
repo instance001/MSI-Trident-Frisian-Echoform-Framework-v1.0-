@@ -1,4 +1,4 @@
-# MSI / Trident / Frisian / Echoform Framework (v1.0)
+﻿# MSI / Trident / Frisian / Echoform Framework (v1.0)
 **A safe, non-anthropomorphic human–AI co-reasoning architecture**  
 ## License
 This project is now licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
@@ -83,7 +83,7 @@ It is **mechanistic alignment**, not emotional alignment.
 
 This release is licensed under:
 
-**CC-BY-SA 4.0**
+**AGPL-3.0**
 
 This means:
 - Anyone may use, teach, modify, apply, and build on the framework
@@ -112,7 +112,7 @@ Contains:
 
 Anthony / Instance001Rising (2025).
 MSI / Trident / Frisian / Echoform Framework (v1.0).
-Released under CC-BY-SA 4.0.
+Licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
 
 
 ---
