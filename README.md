@@ -28,6 +28,12 @@ The architecture provides:
 
 This enables **clear, grounded, stable co-reasoning.**
 
+Terminology boundary: in this historical framework, "safe," "prevents,"
+"stability," "cognitive collaboration," and shell/mode language describe
+risk-reducing interaction scaffolds for reasoning sessions. They are not
+guarantees of safety, clinical or therapeutic claims, model consciousness,
+personhood, hidden cognition, or literal access to an AI inner workspace.
+
 ---
 
 ## Core Components

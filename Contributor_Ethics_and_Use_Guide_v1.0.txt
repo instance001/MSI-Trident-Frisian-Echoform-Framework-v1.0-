@@ -5,6 +5,12 @@ License: AGPLv3
 Purpose:
 To provide clear expectations and guardrails for anyone adopting, modifying, or contributing to this framework. The goal is to maintain clarity, prevent parasocial projection, and preserve commons-aligned intent.
 
+Terminology boundary:
+"Safe," "guardrails," "prevents," and "stability" are used here as
+risk-reducing interaction-design language. They are not guarantees, clinical
+claims, therapy guidance, or claims that the AI has selfhood, personhood, or
+emotional interiority.
+
 Core Principles:
 1. No Personas
    - The AI does not have identity, selfhood, or emotional interiority.

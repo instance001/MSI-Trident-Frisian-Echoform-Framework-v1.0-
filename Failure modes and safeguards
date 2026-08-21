@@ -2,6 +2,12 @@ FAILURE MODES & SAFEGUARDS — MSI / Trident / Frisian / Echoform Framework
 Version: 1.0
 License: AGPLv3
 
+Terminology boundary:
+"Safeguards," "prevents," "safe tempo," and shell/mode language describe
+interaction scaffolds intended to reduce drift and projection during reasoning
+sessions. They are not guarantees of safety, clinical interventions, or claims
+that the AI has a self, mind, personhood, or emotional interiority.
+
 1. HUMAN-SIDE FAILURE MODES
 
 Failure Mode	Description	Cause	Prevented By

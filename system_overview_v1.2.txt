@@ -9,3 +9,9 @@ M = MSI Layer (shared metaphor representation)
 F = Frisian Cadence (rhythm stability loop)
 T = Trident Shell (model reasoning-mode workspace)
 A = AI latent reasoning space
+
+Terminology boundary:
+"AI latent reasoning space" and shell/mode labels are interface metaphors for
+prompted model behavior and session structure. They do not imply access to
+hidden model internals, consciousness, personhood, or an actual inner
+workspace.
